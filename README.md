@@ -1,6 +1,3 @@
-# SHL Assessment Recommender
-
-Conversational agent that recommends **SHL Individual Test Solutions** to hiring managers and recruiters.
 
 ## Architecture
 
